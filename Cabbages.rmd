@@ -21,13 +21,21 @@ veggy <- cabbages
  
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
 
+The difference in between c39 and c52 is that c52 has a greater capacity of VitaminC.
+
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+The graphical method to give us results is to grab the data from c39 and c52 to form it into the boxplot. The numercial method is to have the data and to find the mean, max, median, min and put it into a chart format where you are able to read it by number rather than the graph.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
+
+The results upon the descriptive results show that c39 have less VitaminC than c52.
+
+The results upon the inferential results show that the the odds of something like this happening is a very minuscule chance.
 
 ## Descriptive Results
 
@@ -64,3 +72,5 @@ The chances of getting these results is .00000003405 if the null hypothesis is t
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The challenge value is 5%, it is much smaller than .05 therefore the odds of getting something like this happens .00000003405 of the time.
